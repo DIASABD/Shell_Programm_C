@@ -378,7 +378,6 @@ int main (void) {
     printf("%s\n"," /* Il présente des fonctionnnalités similaires à  celles de /bin/sh:      *");
     printf("%s\n"," /* Il prend en compte certaines  spécifications notament l'utilisation du *");
     printf("%s\n"," /* && et du || de mêmes que les abstarctions du if dans les requêtes .    *");
-    printf("%s\n"," /* Auteurs: Abdramane Diasso - 20057513 et Foadjo Willy - 20059876        *");
     printf("%s\n"," /**************************************************************************");
     printf("%s\n","                                                                            ");
     printf("%s\n","                                                                            ");
