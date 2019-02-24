@@ -5,9 +5,9 @@
  * POSIX. Les commande implementées sont : ls , tail, echo , man sleep .          *
  * Cette implemenation tient compte du statut de terminaisant des appele systèmes *
  * Aussi les occurences de if sont egalement gérées.                              *
- * auteur: Abdramane Diasso - 20057513 et Foadjo Willy - 20059876                 *
+ *                                                                                *
  * date:  09 - 02 - 2019                                                          *
- * problèmes connus: Voir fichier rapport.tex                                     *
+ *                                                                                *
  * ********************************************************************************/
 
 #include <stdio.h>
